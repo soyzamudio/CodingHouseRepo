@@ -1,2 +1,2 @@
 # CodingHouseRepo
-Coding House Repo
+Coding House Repository.
